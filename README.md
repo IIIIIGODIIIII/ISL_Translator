@@ -9,18 +9,24 @@
 
 ## **2. Description**
 ### Indian sign language
+<div align = center>
 <img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/col.png" >
-
+</div>
 
 --- 
 
 ### Dataset
+<div align = center>
 <img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/dataSetPieChart.png" width="60%" height="60%">
 <img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/Variation_of_accuracy_with_n_estimators.png" width="60%" height="60%">
+</div>
 
 ## **3. Pipeline**
+<div align = center>
 <img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/modelPipeLine.png" >
-
+</div>
 
 ## **4. Input / Output**
+<div align = center>
 <img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/modelOutput.png" >
+</div>
