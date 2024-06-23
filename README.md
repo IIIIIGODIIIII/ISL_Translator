@@ -8,18 +8,18 @@
 
 ## **2. Description**
 ### Indian sign language
-<img src="https://github.com/Samarjeet09/AI-Project-ISL-random_forest_classifier/blob/main/col.png" >
+<img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/col.png" >
 
 
 --- 
 
 ### Dataset
-<img src="https://github.com/Samarjeet09/AI-Project-ISL-random_forest_classifier/blob/main/dataSetPieChart.png" width="60%" height="60%">
-<img src="https://github.com/Samarjeet09/AI-Project-ISL-random_forest_classifier/blob/main/Variation_of_accuracy_with_n_estimators.png" width="60%" height="60%">
+<img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/dataSetPieChart.png" width="60%" height="60%">
+<img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/Variation_of_accuracy_with_n_estimators.png" width="60%" height="60%">
 
 ## **3. Pipeline**
-<img src="https://github.com/Samarjeet09/AI-Project-ISL-random_forest_classifier/blob/main/modelPipeLine.png" >
+<img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/modelPipeLine.png" >
 
 
 ## **4. Input / Output**
-<img src="https://github.com/Samarjeet09/AI-Project-ISL-random_forest_classifier/blob/main/modelOutput.png" >
+<img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/modelOutput.png" >
