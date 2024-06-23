@@ -15,7 +15,7 @@
 
 --- 
 
-### Dataset
+### <div align = center> Dataset </div>
 <div align = center>
 <img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/dataSetPieChart.png" width="60%" height="60%">
 <img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/Variation_of_accuracy_with_n_estimators.png" width="60%" height="60%">
