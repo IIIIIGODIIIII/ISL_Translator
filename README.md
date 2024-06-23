@@ -8,7 +8,7 @@
 </div>
 
 ## **2. Description**
-### Indian sign language
+### <div align = center> Indian sign language </div>
 <div align = center>
 <img src="https://github.com/IIIIIGODIIIII/ISL_Translator/blob/main/col.png" >
 </div>
