@@ -1,5 +1,5 @@
 # AI Sign Language Interpreter
-
+This project focuses on recognizing Indian Sign Language (ISL) using Python, Mediapipe, and a Random Forest Classifier. It aims to facilitate communication for the hearing-impaired by allowing real-time recognition of ISL hand signs through a camera feed. The system is trained on a dataset of ISL signs, extracting hand landmarks for accurate classification, enhancing accessibility in education, healthcare, and public services.
 
 ## **1. Methodology**
 <div align = center>
