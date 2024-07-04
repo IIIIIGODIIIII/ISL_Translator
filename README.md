@@ -1,5 +1,4 @@
-
-# **Title: AI sign language interpreter**
+# AI Sign Language Interpreter
 
 
 ## **1. Methodology**
